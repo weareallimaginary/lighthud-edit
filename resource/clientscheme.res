@@ -426,7 +426,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"20"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -436,7 +436,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -445,7 +445,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -464,7 +464,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias" 								"1"
 				"additive"									"1"
@@ -474,7 +474,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -483,7 +483,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -492,7 +492,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"46"
 				"antialias" 								"1"
 			}
@@ -501,7 +501,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"35"
 				"antialias" 								"1"
 			}
@@ -510,7 +510,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"35"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -520,7 +520,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"36"
 				"antialias" 								"1"
 			}
@@ -529,7 +529,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -538,16 +538,28 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"30"
 				"antialias" 								"1"
+			}
+		}
+		"HudFontMediumBigBoldBlur"
+		{
+			"1"
+			{
+				"name"										"renko Bold"
+				"tall"										"30"
+				"antialias" 								"1"
+				"additive"  "0"
+				"scanlines"		"2"
+				"blur"			"3"
 			}
 		}
 		"HudFontMedium"
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -556,7 +568,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -565,7 +577,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -574,7 +586,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -583,7 +595,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -592,7 +604,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -601,7 +613,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -610,7 +622,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -619,7 +631,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"16"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -629,7 +641,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -638,7 +650,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias"								 	"1"
 				"dropshadow"								"1"
@@ -648,7 +660,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -657,7 +669,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"11"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -667,7 +679,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"12"
 				"antialias" 								"1"
 			}
@@ -676,7 +688,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -685,7 +697,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -694,7 +706,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -703,7 +715,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -712,7 +724,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"6"
 				"antialias" 								"1"
 			}
@@ -721,7 +733,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -769,7 +781,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -788,7 +800,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -797,7 +809,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -806,7 +818,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -816,7 +828,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"20"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -826,7 +838,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"36"
 				"range"										"0x0000 0x007F"
 				"antialias" 								"1"
@@ -836,7 +848,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -845,7 +857,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"20"
 				"antialias" 								"1"
 			}
@@ -854,7 +866,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -863,7 +875,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboUber2"
+				"name"										"renko Bold"
 				"tall"										"12"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -873,7 +885,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"16"
 				"dropshadow"								"1"
 				"antialias" 								"1"
@@ -883,7 +895,7 @@
 		{
 			"4"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"dropshadow"								"1"
 				"antialias" 								"1"
@@ -893,7 +905,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -902,7 +914,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -911,7 +923,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -920,7 +932,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -929,7 +941,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -938,7 +950,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -956,7 +968,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -965,7 +977,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -974,7 +986,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"12"
 				"antialias" 								"1"
 			}
@@ -983,7 +995,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias"								 	"1"
 			}
@@ -992,7 +1004,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1001,7 +1013,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1010,7 +1022,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1019,7 +1031,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1028,7 +1040,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1038,7 +1050,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -1047,7 +1059,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"9"
 				"blur"										"3"
 				"additive"									"1"
@@ -1058,7 +1070,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"7"
 				"additive"									"1"
 				"antialias" 								"1"
@@ -1068,7 +1080,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"7"
 				"additive"									"1"
 				"antialias" 								"1"
@@ -1078,7 +1090,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1087,7 +1099,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"7"
 				"blur"										"3"
 				"additive"									"1"
@@ -1098,7 +1110,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1107,7 +1119,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1116,7 +1128,7 @@
 		{
 			"13"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1125,7 +1137,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"16"
 				"antialias"								 	"1"
 			}
@@ -1134,7 +1146,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"20"
 				"antialias"									"1"
 			}
@@ -1143,7 +1155,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"22"
 				"antialias"									"1"
 			}
@@ -1152,7 +1164,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"22"
 				"antialias"									"1"
 			}
@@ -1161,7 +1173,7 @@
 		{
 			"3"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -1170,7 +1182,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"13"
 				"antialias" 								"1"
 			}
@@ -1179,7 +1191,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -1188,7 +1200,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -1197,7 +1209,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1206,7 +1218,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1215,7 +1227,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"8"
 				"antialias" 								"1"
 			}
@@ -1224,7 +1236,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"9"
 				"antialias" 								"1"
 				"italic"									"1"
@@ -1234,7 +1246,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"12"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -1244,7 +1256,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1253,7 +1265,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"range"										"0x0000 0x017F"
 				"antialias" 								"1"
@@ -1263,7 +1275,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1272,7 +1284,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"antialias"								 	"1"
 			}
@@ -1281,7 +1293,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -1290,7 +1302,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -1299,7 +1311,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -1308,7 +1320,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1317,7 +1329,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -1326,7 +1338,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -1335,7 +1347,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -1344,7 +1356,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"11"
 				"blur"										"3"
 				"additive"									"1"
@@ -1355,7 +1367,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"12"
 				"antialias" 								"1"
 				"dropshadow"								"1"
@@ -1365,7 +1377,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"7"
 				"blur"										"3"
 				"additive"									"1"
@@ -1376,7 +1388,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"7"
 				"antialias" 								"1"
 			}
@@ -1385,7 +1397,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -1394,7 +1406,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -1403,7 +1415,7 @@
 		{
 			"1"
 			{
-				"name"										"HeeboBold"
+				"name"										"renko Bold"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -2762,13 +2774,8 @@
 	{
 		"1"
 		{
-			"font" "resource/fonts/heebo.ttf"
-			"name" "HeeboBold"
-		}
-		"2"
-		{
-			"font" "resource/fonts/heebouber.ttf"
-			"name" "HeeboUber2"
+			"font" "resource/fonts/renko Bold.ttf"
+			"name" "renko Bold"
 		}
 	}
 }

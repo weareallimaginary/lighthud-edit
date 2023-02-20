@@ -242,4 +242,49 @@
 		"enabled"									"1"
 		"image"										"../vgui/maps/menu_thumb_Missing"
 	}
+	"bunny"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"bunny"
+		"xpos"										"9999"
+		"visible"									"0"
+		"enabled"									"0"
+		"image"										"../vgui/replay/thumbnails/bunny"
+	}
+	"crossblue"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"crossblue"
+		"xpos"										"9999"
+		"visible"									"1"
+		"enabled"									"1"
+		"image"										"../vgui/replay/thumbnails/health_bgblue"
+	}
+	"health_bg"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"health_bg"
+		"xpos"										"9999"
+		"visible"									"1"
+		"enabled"									"1"
+		"image"										"../vgui/replay/thumbnails/health_bg"
+	}
+	"numbers"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"numbers"
+		"xpos"										"9999"
+		"visible"									"1"
+		"enabled"									"1"
+		"image"										"../vgui/replay/thumbnails/numbers"
+	}
+	"quakecross"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"quakecross"
+		"xpos"										"9999"
+		"visible"									"1"
+		"enabled"									"1"
+		"image"										"../vgui/replay/thumbnails/quakecross"
+	}
 }
